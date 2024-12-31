@@ -6,9 +6,9 @@ module.exports = {
     STORAGE_PATH : __dirname + "/storage",
     STORAGE_SESSION : __dirname + "/storage/session",
 
-    OWNER_NUMBER : ["6281276400345"],
-    OWNER_NAME : ["balxzzy"],
+    OWNER_NUMBER : ["6285894399311"],
+    OWNER_NAME : ["al"],
 
     STICKER_PACK: "created by",
-    STICKER_AUTHOR: "balxzzy",
+    STICKER_AUTHOR: "al",
 }
